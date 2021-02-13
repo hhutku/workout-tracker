@@ -10,7 +10,7 @@ Workout-Tracker provides the user with plenty of functionality to help them reac
 
 ## Installation
 
-* Users can view the deployed project [here](heroku link). If you intend to iterate on the project, besides downloading the repo to your machine, be sure to run `npm i` in the root directory and to also have MongoDB installed and ready.
+* Users can view the deployed project . If you intend to iterate on the project, besides downloading the repo to your machine, be sure to run `npm i` in the root directory and to also have MongoDB installed and ready.
 
 ## Usage
 * View the deployed app [here](https://wout-tracker.herokuapp.com/) and use the app.
