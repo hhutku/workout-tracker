@@ -16,7 +16,7 @@ let workoutSeed = [
         duration: 20,
         weight: 100,
         reps: 10,
-        sets: 4
+        sets: 3
       }
     ]
   },
@@ -29,7 +29,7 @@ let workoutSeed = [
         duration: 20,
         weight: 300,
         reps: 10,
-        sets: 4
+        sets: 3
       }
     ]
   },
@@ -42,7 +42,7 @@ let workoutSeed = [
         duration: 25,
         weight: 185,
         reps: 8,
-        sets: 4
+        sets: 3
       }
     ]
   },
@@ -53,7 +53,7 @@ let workoutSeed = [
         type: "cardio",
         name: "Running",
         duration: 25,
-        distance: 4
+        distance: 3
       }
     ]
   },
@@ -79,7 +79,7 @@ let workoutSeed = [
         duration: 20,
         weight: 300,
         reps: 10,
-        sets: 4
+        sets: 3
       }
     ]
   },
@@ -90,9 +90,9 @@ let workoutSeed = [
         type: "resistance",
         name: "Quad Press",
         duration: 30,
-        weight: 300,
+        weight: 301,
         reps: 10,
-        sets: 4
+        sets: 3
       }
     ]
   },
@@ -105,7 +105,7 @@ let workoutSeed = [
         duration: 20,
         weight: 300,
         reps: 10,
-        sets: 4
+        sets: 3
       }
     ]
   },
@@ -118,7 +118,7 @@ let workoutSeed = [
         duration: 20,
         weight: 300,
         reps: 10,
-        sets: 4
+        sets: 3
       }
     ]
   }
