@@ -15,5 +15,9 @@ Workout-Tracker provides the user with plenty of functionality to help them reac
 ## Usage
 * View the deployed app [here](https://wout-tracker.herokuapp.com/) and use the app.
 
+## Images
+
+![image of app](./utils/img/w1.jpg)
+![image of app](./utils/img/w2.jpg)
 
 
